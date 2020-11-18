@@ -1,0 +1,13 @@
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\bin\Debug\netcoreapp3.1\GoingToBostonDiceGame.exe
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\bin\Debug\netcoreapp3.1\GoingToBostonDiceGame.deps.json
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\bin\Debug\netcoreapp3.1\GoingToBostonDiceGame.runtimeconfig.json
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\bin\Debug\netcoreapp3.1\GoingToBostonDiceGame.runtimeconfig.dev.json
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\bin\Debug\netcoreapp3.1\GoingToBostonDiceGame.dll
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\bin\Debug\netcoreapp3.1\GoingToBostonDiceGame.pdb
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\obj\Debug\netcoreapp3.1\GoingToBostonDiceGame.csprojAssemblyReference.cache
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\obj\Debug\netcoreapp3.1\GoingToBostonDiceGame.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\obj\Debug\netcoreapp3.1\GoingToBostonDiceGame.AssemblyInfo.cs
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\obj\Debug\netcoreapp3.1\GoingToBostonDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\obj\Debug\netcoreapp3.1\GoingToBostonDiceGame.dll
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\obj\Debug\netcoreapp3.1\GoingToBostonDiceGame.pdb
+C:\Users\patel\source\repos\GoingToBostonDiceGame\GoingToBostonDiceGame\obj\Debug\netcoreapp3.1\GoingToBostonDiceGame.genruntimeconfig.cache
